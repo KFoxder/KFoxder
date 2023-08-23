@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome 👋
+
+
+Thanks for stopping by! 
+
+🏢 I am currently the CTO @ [YCharts](https://ycharts.com/)
+
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rkevinfox/) or you can always email me: kevin_fox @ icloud dot com
+
+
 
 <!--
 **KFoxder/KFoxder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
