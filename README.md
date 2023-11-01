@@ -1,7 +1,14 @@
-### Welcome 👋
-
-
-Thanks for stopping by! 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=KFoxder&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: transparent)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=KFoxder&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=KFoxder&show_icons=true&theme=transparent" />
+</picture>
 
 
 
@@ -10,6 +17,7 @@ Thanks for stopping by!
 💻 You can see my [personal website](https://www.kevinfox.dev/)
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rkevinfox/) or you can always email me: kevin_fox @ icloud dot com
+
 
 
 
