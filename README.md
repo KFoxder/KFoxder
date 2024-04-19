@@ -12,7 +12,7 @@
 
 
 
-🏢 I am currently the CTO @ [YCharts](https://ycharts.com/)
+🏢 I am currently a dev @ Jane Street. Formerly the CTO @ [YCharts](https://ycharts.com/)
 
 💻 You can see my [personal website](https://www.kevinfox.dev/)
 
