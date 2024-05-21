@@ -16,7 +16,7 @@
 
 💻 You can see my [personal website](https://www.kevinfox.dev/)
 
-📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rkevinfox/) or you can always email me: kevin_fox @ icloud dot com
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rkevinfox/) or you can always email me: kfoxder @ icloud dot com
 
 
 
